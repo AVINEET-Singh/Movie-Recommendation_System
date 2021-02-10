@@ -1,6 +1,6 @@
-# In this project we are comparing two approches for movie recommendation for new user or existing user based on their age,gender,occupation
+# In this project we are comparing two approaches for movie recommendation for a new user or existing user based on their age,gender,occupation
 
-we have implemented all the method from scratch and try to improve that existing movie recommender
+We have implemented all the method from scratch and tried to improve the existing movie recommender system.
 
 # First install all the imports : you can use pip to install all these imports
 
