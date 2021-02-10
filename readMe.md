@@ -4,6 +4,6 @@ In this project we are comparing two approaches for movie recommendation for a n
 
 We have implemented all the methods from scratch and tried to improve the existing movie recommender system.
 
-Approach 1: SVD-Collaborative Filtering
+# Approach 1: SVD-Collaborative Filtering
 
-Approach 2: k-clique method
+# Approach 2: k-clique method
